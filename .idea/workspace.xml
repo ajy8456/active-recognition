@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e8b6a4a-e4ee-44f1-81fa-d8a44b4b7767" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24pJ3LBxEeUEzW6c9hDgf0eFMmq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e8b6a4a-e4ee-44f1-81fa-d8a44b4b7767" name="Default Changelist" comment="" />
+      <created>1644321395501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644321395501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1618" y="101" width="958" height="1026" key="dock-window-1" timestamp="1644327893546">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1618" y="101" width="958" height="1026" key="dock-window-1/0.0.2560.1040@0.0.2560.1040" timestamp="1644327893546" />
+    <state x="1273" y="0" width="1294" height="1047" key="dock-window-2" timestamp="1644333632947">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1273" y="0" width="1294" height="1047" key="dock-window-2/0.0.2560.1040@0.0.2560.1040" timestamp="1644333632947" />
+    <state x="1273" y="0" width="1294" height="1047" key="dock-window-3" timestamp="1644331117853">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1273" y="0" width="1294" height="1047" key="dock-window-3/0.0.2560.1040@0.0.2560.1040" timestamp="1644331117853" />
+    <state x="1282" y="80" width="1294" height="1047" key="dock-window-4" timestamp="1644332453080">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1282" y="80" width="1294" height="1047" key="dock-window-4/0.0.2560.1040@0.0.2560.1040" timestamp="1644332453080" />
+  </component>
+</project>
