@@ -6,7 +6,7 @@ import random
 import tempfile
 import numpy as np
 from models import Actor, Sensor, Aggregator, LookAhead
-from classifier import Classifier
+from classifier import Classifier_NP
 
 
 class Reinforce:

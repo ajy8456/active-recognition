@@ -1,8 +1,6 @@
-import torch
-import torch.nn as nn
 import torch.nn.functional as F
 import numpy as np
-from googlenet import *
+from modeling.googlenet import *
 
 
 # fully connected discrete-action policy
